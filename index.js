@@ -7,7 +7,7 @@ let people = [
     {name:'Jack',age:40,gender:'m'}
 ]
 //if else coding
-/* people=people.map(person=>{
+people=people.map(person=>{
     if(person.gender){
         if(person.gender==='m')
             person.gender="male"
@@ -18,7 +18,7 @@ let people = [
         person.gender="unknown"
     return person
 })
-console.log(people); */
+console.log(people); 
 
 //with else if
 
