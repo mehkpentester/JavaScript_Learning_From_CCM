@@ -1,2 +1,2 @@
 # JavaScript_Learning_From_CCM
-Learning jS
+This is learning process.
